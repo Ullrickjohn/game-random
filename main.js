@@ -14,7 +14,7 @@ while (true){
     }
     else if(answ == 0){
         alert('Son kiritilmadi!')
-        break;
+        
     }    
     else if (isNaN(answ)){
         alert('Faqat son kiriting! Harf kiritish mumkin emas ')
